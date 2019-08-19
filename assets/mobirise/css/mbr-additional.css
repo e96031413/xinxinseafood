@@ -1823,6 +1823,29 @@ body {
 .cid-rzaUM99NaS {
   background-image: url("../../../assets/images/36572032-1781687388591408-5295953881539280896-o-1449x1087.jpg");
 }
+.cid-rzzzd0CogA {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #38b2cb;
+}
+.cid-rzzzd0CogA .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rzzzd0CogA .section-text {
+  padding: 2rem 0;
+}
+.cid-rzzzd0CogA .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rzzzd0CogA .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rzztEcGFg5 {
   padding-top: 60px;
   padding-bottom: 60px;
